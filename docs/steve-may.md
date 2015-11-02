@@ -4,5 +4,6 @@
 
 - [ ] Stephen May
 - [ ] Sudbury, Ontario
-- [ ] cabbage rolls and petahe
+- [ ] My favorite food is cabbage rolls and petahe
 - [ ] Hunting & Fishing
+- [ ] My favorite color is Blue
